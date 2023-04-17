@@ -1,3 +1,3 @@
 # Uav-formation-obstacle-avoidance
 
-This code is published after the acceptance of the paper, and promises permanent availability.
+The code for the paper has been published and is ready to use after unzipping and is promised to be available forever.
